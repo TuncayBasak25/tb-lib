@@ -21,7 +21,7 @@
 
 }
  */
-export default function SelfReg<T>(): {
+export declare function SelfReg<T>(): {
     new (): {
         readonly id: 0;
         /**

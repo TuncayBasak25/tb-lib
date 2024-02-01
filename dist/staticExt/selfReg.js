@@ -23,6 +23,7 @@
 }
  */
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.SelfReg = void 0;
 function SelfReg() {
     var _a;
     return _a = class SelfReg {
@@ -42,4 +43,4 @@ function SelfReg() {
         _a.createCount = 0,
         _a;
 }
-exports.default = SelfReg;
+exports.SelfReg = SelfReg;

@@ -22,7 +22,7 @@
 }
  */
 
-export default function SelfReg<T>() {
+export function SelfReg<T>() {
     return class SelfReg {
         static instanceList: T[] = [];
         static createCount: number = 0;
