@@ -1,2 +1,2 @@
-export * as StaticExt from "./staticExt";
+export * from "./staticExt";
 //# sourceMappingURL=index.d.ts.map

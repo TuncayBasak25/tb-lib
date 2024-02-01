@@ -1,1 +1,1 @@
-export * as StaticExt from "./staticExt";
+export * from "./staticExt";
