@@ -1,1 +1,1 @@
-export * from "./staticExt/selfReg";
+export * as StaticExt from "./staticExt";
